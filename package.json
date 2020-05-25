@@ -1,0 +1,19 @@
+{
+  "name": "country-nationality-list",
+  "version": "1.0.0",
+  "description": "ISO 3166-1 Country codes and nationality listing in the following formats:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zipmex/country-nationality-list.git"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/zipmex/country-nationality-list/issues"
+  },
+  "homepage": "https://github.com/zipmex/country-nationality-list#readme"
+}
