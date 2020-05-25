@@ -9,7 +9,7 @@ const mapNationalities = () => {
     }
   }, {})
 
-  fs.writeFileSync('../nationalites.json', JSON.stringify(result))
+  fs.writeFileSync('./nationalities.json', JSON.stringify(result))
 }
 
 mapNationalities()
