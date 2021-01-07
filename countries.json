@@ -1,5 +1,33 @@
 [
     {
+        "num_code": "764",
+        "alpha_2_code": "TH",
+        "alpha_3_code": "THA",
+        "en_short_name": "Thailand",
+        "nationality": "Thai"
+    },
+    {
+        "num_code": "360",
+        "alpha_2_code": "ID",
+        "alpha_3_code": "IDN",
+        "en_short_name": "Indonesia",
+        "nationality": "Indonesian"
+    },
+    {
+        "num_code": "702",
+        "alpha_2_code": "SG",
+        "alpha_3_code": "SGP",
+        "en_short_name": "Singapore",
+        "nationality": "Singaporean"
+    },
+    {
+        "num_code": "36",
+        "alpha_2_code": "AU",
+        "alpha_3_code": "AUS",
+        "en_short_name": "Australia",
+        "nationality": "Australian"
+    },
+    {
         "num_code": "4",
         "alpha_2_code": "AF",
         "alpha_3_code": "AFG",
@@ -89,13 +117,6 @@
         "alpha_3_code": "ABW",
         "en_short_name": "Aruba",
         "nationality": "Aruban"
-    },
-    {
-        "num_code": "36",
-        "alpha_2_code": "AU",
-        "alpha_3_code": "AUS",
-        "en_short_name": "Australia",
-        "nationality": "Australian"
     },
     {
         "num_code": "40",
@@ -719,13 +740,6 @@
         "alpha_3_code": "IND",
         "en_short_name": "India",
         "nationality": "Indian"
-    },
-    {
-        "num_code": "360",
-        "alpha_2_code": "ID",
-        "alpha_3_code": "IDN",
-        "en_short_name": "Indonesia",
-        "nationality": "Indonesian"
     },
     {
         "num_code": "364",
@@ -1393,13 +1407,6 @@
         "nationality": "Sierra Leonean"
     },
     {
-        "num_code": "702",
-        "alpha_2_code": "SG",
-        "alpha_3_code": "SGP",
-        "en_short_name": "Singapore",
-        "nationality": "Singaporean"
-    },
-    {
         "num_code": "534",
         "alpha_2_code": "SX",
         "alpha_3_code": "SXM",
@@ -1538,13 +1545,6 @@
         "alpha_3_code": "TZA",
         "en_short_name": "Tanzania, United Republic of",
         "nationality": "Tanzanian"
-    },
-    {
-        "num_code": "764",
-        "alpha_2_code": "TH",
-        "alpha_3_code": "THA",
-        "en_short_name": "Thailand",
-        "nationality": "Thai"
     },
     {
         "num_code": "626",
